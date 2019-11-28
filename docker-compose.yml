@@ -8,13 +8,13 @@ services:
             - ./apache2.conf:/etc/apache2/apache2.conf
             - ./000-default.conf:/etc/apache2/sites-enabled/000-default.conf
             - ./USTCWebSecurity:/home/workspace/
-            - ./run.sh:/home/workspace/run.sh
+            - ./run_windows:/home/workspace/run_windows
         depends_on:
             - mysql
         ports:
             - "7001:80" 
             - "7002:443"
-        command: ["bash", "run.sh"]
+        command: ["bash", "run_windows"]
     mysql:
         image: mysql:5.7
         volumes:
