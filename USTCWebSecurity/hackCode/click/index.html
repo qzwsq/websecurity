@@ -1,0 +1,60 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Clickjacking Demo</title>
+  <meta name="description" content="Demo of using clickjacking to transfer Coins.">
+  <meta name="author" content="Feross Aboukhadijeh and Judy">
+  <link rel="shortcut icon" href="../../img/icon.ico" />
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+
+<body >
+<div id="tu">
+<img src="../ting.png" id="tu1" >
+<img src="../ting.png" id="tu2" >
+<img src="../ting.png" id="tu3" >
+<img src="../ting.png" id="tu4" >
+<img src="../ting.png" id="tu5" >
+</div>
+<div id="secret">
+	<p class="z1">Input '2':</p>
+</div>
+
+<div id="secret2">
+	<p class="s1">Input 'cj':</p>
+</div>
+
+<div id="container">
+
+    <div id="main" role="main">
+      <div id="game">
+        <button class="punch">Click me!</button>
+	<br/></br>
+      </div> 
+    
+      <div id="settings"></div>
+    </div>
+
+    <footer>
+      <div id="topLinks">
+        <button id="showHide">Show/hide the transparent iframe</button>
+        <br /><br /><br />
+        ...or <a href="http://www.feross.org/webcam-spy/" target="_blank">back to the blog post.</a><br>
+        <button id="needCover">Cover OR NOT</button>
+      </div>
+
+      <div id="cam"></div>
+    </footer>  
+  </div>
+
+
+<script src='jquery.js'></script>
+<script>//alert(1);</script> 
+  <script src="script.js"></script>
+
+</body>
+</html>

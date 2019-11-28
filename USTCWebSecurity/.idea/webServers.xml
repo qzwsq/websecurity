@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0ca0af3-979b-43ef-ab1d-20b4ff94bf2f" name="Apache (project level)" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="57b30607-72a2-49b9-9a72-0a7d4b9d7ea7" name="Apache" url="http://localhost:63342">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b498217f-67ad-4646-9678-dfad07788537" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1426224916">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="php" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="PHP" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="228" />
+          <entry key="php" value="465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="228" />
+          <entry key="PHP" value="465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="456338323">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="811" />
+          <entry key="dummy" value="9" />
+          <entry key="html" value="1650" />
+          <entry key="js" value="819" />
+          <entry key="php" value="10163" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="811" />
+          <entry key="HTML" value="1660" />
+          <entry key="JavaScript" value="817" />
+          <entry key="PHP" value="10154" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="html" value="19" />
+          <entry key="js" value="6" />
+          <entry key="php" value="58" />
+          <entry key="rnc" value="1" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="19" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PHP" value="58" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1376824582">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="793945174">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="4" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="1" />
+          <entry key="php" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="32" />
+          <entry key="html" value="38" />
+          <entry key="js" value="11" />
+          <entry key="php" value="294" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="32" />
+          <entry key="HTML" value="38" />
+          <entry key="JavaScript" value="11" />
+          <entry key="PHP" value="294" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1394509152">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/transfer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="48" column="78" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="956">
+              <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/LoginCheck.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="138" column="5" lean-forward="true" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/Token.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="771" column="12" lean-forward="true" selection-start-line="771" selection-start-column="12" selection-end-line="771" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1387">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/DBConnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/Global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ZoobarLogin</find>
+      <find>db</find>
+      <find>自行</find>
+      <find>name</find>
+      <find>execute</find>
+      <find>id</find>
+      <find>submit</find>
+      <find>profileheader</find>
+      <find>refr</find>
+      <find>70</find>
+      <find>40</find>
+      <find>pun</find>
+      <find>hide</find>
+      <find>requ</find>
+      <find>req</find>
+      <find>setcook</find>
+      <find>show</find>
+      <find>personID</find>
+      <find>person</find>
+      <find>$i</find>
+      <find>$conn</find>
+      <find>token</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$isLogged</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Home.php" />
+        <option value="$PROJECT_DIR$/src/pagepart.php" />
+        <option value="$PROJECT_DIR$/src/dbconnect.php" />
+        <option value="$PROJECT_DIR$/includes/user.php" />
+        <option value="$PROJECT_DIR$/includes/userInfo.php" />
+        <option value="$PROJECT_DIR$/includes/database.php" />
+        <option value="$PROJECT_DIR$/hackCode/CSRFCode.html" />
+        <option value="$PROJECT_DIR$/hackCode/CSRFCodePost.html" />
+        <option value="$PROJECT_DIR$/hackCode/CSRFCode1Get.html" />
+        <option value="$PROJECT_DIR$/testJS.html" />
+        <option value="$PROJECT_DIR$/hackCode/CSRFCode2Post.html" />
+        <option value="$PROJECT_DIR$/hackCode/Click/script.js" />
+        <option value="$PROJECT_DIR$/src/global.php" />
+        <option value="$PROJECT_DIR$/src/SafeConnection.php" />
+        <option value="$PROJECT_DIR$/src/logincheck.php" />
+        <option value="$PROJECT_DIR$/src/common.css" />
+        <option value="$PROJECT_DIR$/hackCode/prepare.php" />
+        <option value="$PROJECT_DIR$/src/Token.php" />
+        <option value="$PROJECT_DIR$/src/Token.class.php" />
+        <option value="$PROJECT_DIR$/hackCode/Click/index.localhost.html" />
+        <option value="$PROJECT_DIR$/hackCode/Click/style.css" />
+        <option value="$PROJECT_DIR$/src/Global.php" />
+        <option value="$PROJECT_DIR$/src/dependencies/LoginCheck.php" />
+        <option value="$PROJECT_DIR$/src/login.php" />
+        <option value="$PROJECT_DIR$/src/LoginCheck.php" />
+        <option value="$PROJECT_DIR$/src/users.php" />
+        <option value="$PROJECT_DIR$/src/transfer.php" />
+        <option value="$PROJECT_DIR$/../USTCWebSecurity2/includes/LoginCheck.php" />
+        <option value="$PROJECT_DIR$/src/index.php" />
+        <option value="$PROJECT_DIR$/hackCode/csrfjs.html" />
+        <option value="$PROJECT_DIR$/hackCode/XSSWorm.html" />
+        <option value="$PROJECT_DIR$/hackCode/click/index.html" />
+        <option value="$PROJECT_DIR$/hackCode/click/style.css" />
+        <option value="$PROJECT_DIR$/hackCode/click/script.js" />
+        <option value="$PROJECT_DIR$/hackCode/csrfjs_ChangeProfile.html" />
+        <option value="$PROJECT_DIR$/hackCode/csrfjs_StealCoins.html" />
+        <option value="$PROJECT_DIR$/includes/DBConnect.php" />
+        <option value="$PROJECT_DIR$/includes/Global.php" />
+        <option value="$PROJECT_DIR$/users.php" />
+        <option value="$PROJECT_DIR$/css/common.css" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/includes/LoginCheck.php" />
+        <option value="$PROJECT_DIR$/includes/Token.class.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/transfer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="C:/xampp/php/PEAR" />
+      <path value="C:/xampp/php" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../../php/PEAR" />
+      <path value="$PROJECT_DIR$/../../php" />
+      <path value="$USER_HOME$/php/PEAR" />
+      <path value="$USER_HOME$/php" />
+      <path value="$PROJECT_DIR$/../../php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="700" />
+    <option name="y" value="80" />
+    <option name="width" value="1020" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="USTCWebSecurity2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="USTCWebSecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="USTCWebSecurity2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="USTCWebSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="USTCWebSecurity2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="USTCWebSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="$_cookie&#9;null&#9;null&#10;cookie&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FZF\Desktop\工程实践项目\USTCWebSecurity_windows\includes" />
+      <recent name="C:\xampp\htdocs\USTCWebSecurity\hackCode" />
+      <recent name="C:\xampp\htdocs\USTCWebSecurity\includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\USTCWebSecurity - 副本\includes" />
+      <recent name="C:\xampp\htdocs\USTCWebSecurity\src" />
+      <recent name="C:\xampp\htdocs\USTCWebSecurity\src\dependencies" />
+      <recent name="C:\xampp\htdocs\USTCWebSecurity\css" />
+      <recent name="C:\Users\FZF\PhpstormProjects\USTCWebSecurity\includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b498217f-67ad-4646-9678-dfad07788537" name="Default Changelist" comment="" />
+      <created>1540707313446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540707313446</updated>
+      <workItem from="1540707314626" duration="2417000" />
+      <workItem from="1540709768762" duration="404000" />
+      <workItem from="1540710287501" duration="14729000" />
+      <workItem from="1540737556743" duration="3119000" />
+      <workItem from="1540785111536" duration="604000" />
+      <workItem from="1540814387777" duration="6881000" />
+      <workItem from="1540865704876" duration="917000" />
+      <workItem from="1541405662586" duration="246000" />
+      <workItem from="1541414469857" duration="14402000" />
+      <workItem from="1541517357298" duration="1432000" />
+      <workItem from="1542356991658" duration="16567000" />
+      <workItem from="1542593255592" duration="20519000" />
+      <workItem from="1542710129893" duration="10667000" />
+      <workItem from="1542852176014" duration="597000" />
+      <workItem from="1542873630918" duration="6706000" />
+      <workItem from="1542973476153" duration="7197000" />
+      <workItem from="1543058472470" duration="8628000" />
+      <workItem from="1543208679722" duration="2202000" />
+      <workItem from="1543241406352" duration="703000" />
+      <workItem from="1543278163466" duration="5498000" />
+      <workItem from="1543322329264" duration="541000" />
+      <workItem from="1543665008274" duration="31000" />
+      <workItem from="1544064534259" duration="3168000" />
+      <workItem from="1544106715174" duration="4071000" />
+      <workItem from="1544149942146" duration="6923000" />
+      <workItem from="1544278801914" duration="1494000" />
+      <workItem from="1544280370249" duration="1227000" />
+      <workItem from="1544627978067" duration="1094000" />
+      <workItem from="1544629346992" duration="661000" />
+      <workItem from="1544631835945" duration="2111000" />
+      <workItem from="1544794589755" duration="5017000" />
+      <workItem from="1546064517375" duration="231000" />
+      <workItem from="1546339615456" duration="954000" />
+      <workItem from="1546340602182" duration="25000" />
+      <workItem from="1546410666053" duration="1299000" />
+      <workItem from="1546517943852" duration="62000" />
+      <workItem from="1546678246448" duration="4446000" />
+      <workItem from="1546690576142" duration="10236000" />
+      <workItem from="1546840827176" duration="661000" />
+      <workItem from="1553235333483" duration="1236000" />
+      <workItem from="1553237766700" duration="940000" />
+      <workItem from="1553243873224" duration="982000" />
+      <workItem from="1553657375511" duration="2534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="180802000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="2493" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18359853" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32692307" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21291208" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Home.php" />
+    <entry file="file://$PROJECT_DIR$/src/pagepart.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17252">
+          <caret line="908" column="6" selection-start-line="908" selection-start-column="6" selection-end-line="908" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/click/jquery.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="4753" column="32" lean-forward="true" selection-start-line="4753" selection-start-column="27" selection-end-line="4753" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/XSSWorm.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/testJS.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/CSRFCode1Get.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8417">
+          <caret line="446" column="10" selection-start-line="446" selection-start-column="10" selection-end-line="446" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="914" column="9" selection-start-line="914" selection-start-column="9" selection-end-line="914" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/CSRFCode2Post.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/click/index.localhost.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/click/index.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/click/style.css" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/click/script.js" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/csrfjs.html" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/hackCode/prepare.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/css/common.css" />
+    <entry file="file://$PROJECT_DIR$/includes/userInfo.php" />
+    <entry file="file://$PROJECT_DIR$/src/SafeConnection.php" />
+    <entry file="file://$PROJECT_DIR$/includes/database.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/includes/DBConnect.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/includes/Global.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/src/login.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/src/users.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/includes/Token.class.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/src/transfer.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/src/index.php" />
+    <entry file="file://$PROJECT_DIR$/../USTCWebSecurity2/includes/LoginCheck.php" />
+    <entry file="file://$PROJECT_DIR$/img/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8325">
+          <caret line="555" column="34" selection-start-line="555" selection-start-column="34" selection-end-line="555" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/click/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/XSSWorm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/click/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/click/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/csrfjs_ChangeProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackCode/csrfjs_StealCoins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/Global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="771" column="12" lean-forward="true" selection-start-line="771" selection-start-column="12" selection-end-line="771" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/Token.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="48" column="78" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/LoginCheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="138" column="5" lean-forward="true" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="956">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

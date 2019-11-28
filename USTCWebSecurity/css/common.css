@@ -1,0 +1,93 @@
+/* content div容器居中显示*/
+body {
+    background-color: antiquewhite;
+}
+
+.content {
+    text-align: center;
+    margin: auto auto;
+    width: 700px;
+    height: 500px;
+}
+
+.takeplace {
+    height: 60px;
+}
+
+.logo {
+
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.logo img {
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 50%;
+}
+
+.logout {
+    position: relative;
+    right: -35%;
+}
+
+.header {
+    display: inline-block;
+    width: 600px;
+    white-space: nowrap;
+    float: right;
+}
+
+.clearfloat {
+    clear: both;
+}
+
+/*main div*/
+.main {
+    border: 1px solid black;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: url("../img/backgroundimg.jpg");
+}
+
+.loginform {
+    margin-top: 50px;
+}
+
+.funcbtn {
+    text-align: center;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+/*导航栏中3个a标签*/
+nav a {
+    margin-left: 15px;
+    color: rgb(0, 0, 238);
+}
+
+/*导航栏中的a标签访问后不变色*/
+a:visited {
+    color: rgb(0, 0, 238);
+}
+
+/*fun div*/
+.func {
+    height: 200px;
+}
+
+.send p {
+    text-align: left;
+    margin-left: 30px;
+}
+
+.warning {
+    color: red;
+    font-weight: bold;
+}
+.form1

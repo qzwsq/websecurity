@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+    webapp:
+        build: .
+        working_dir: /home/workspace
+        volumes:
+            - ./apache2.conf:/etc/apache2/apache2.conf
+            - ./000-default.conf:/etc/apache2/sites-enabled/000-default.conf
+            - ./USTCWebSecurity:/home/workspace/
+            - ./run.sh:/home/workspace/run.sh
+        depends_on:
+            - mysql
+        ports:
+            - "7001:80" 
+            - "7002:443"
+        command: ["bash", "run.sh"]
+    mysql:
+        image: mysql:5.7
+        volumes:
+            - ./init:/docker-entrypoint-initdb.d
+        environment:
+            MYSQL_ROOT_PASSWORD: '123456'
+            MYSQL_USER: 'websecurity'
+            MYSQL_PASS: '123456'
+        ports:
+            - 3306:3306
+
