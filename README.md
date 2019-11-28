@@ -3,6 +3,9 @@
 - docker toolbox
 - windows 10
 - powershell
+## possible bug
+websecurity_webapp_1 exited  
+fix: manually regenerate run_windows shell script 
 ## usage
 ### build
 > workdir=$(your workspace) # suggest to choice c:\\users\${your user name}\  
@@ -11,7 +14,7 @@
 > workdir/>docker-compose up -d  
 
 view  
-> workdir/>docker-machine ip default #get virtul machine ip => ${host}
+> workdir/>docker-machine ip default #get virtul machine ip => ${host}  
 ${host}:7001/index.php or ${host}:7002/index.php<br>
 
 ### exec container 
