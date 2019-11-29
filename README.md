@@ -8,10 +8,10 @@ websecurity_webapp_1 exited
 fix: manually regenerate run_windows shell script
 for example:  
 > cat run_windows  
-> # copy content manually  
+> \# copy content manually  
 > rm run_windows  
 > vim run_windows  
-> # paste content  
+> \# paste content  
 ## usage
 ### build
 > workdir=$(your workspace) # suggest to choice c:\\users\${your user name}\  
