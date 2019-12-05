@@ -7,7 +7,7 @@ services:
         volumes:
             - ./apache2.conf:/etc/apache2/apache2.conf
             - ./000-default.conf:/etc/apache2/sites-enabled/000-default.conf
-            - ./USTCWebSecurity:/home/workspace/
+            - ./myzoo:/home/workspace/
             - ./run.sh:/home/workspace/run.sh
         depends_on:
             - mysql

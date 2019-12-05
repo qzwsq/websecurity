@@ -6,7 +6,10 @@ CREATE TABLE `Person`
     PersonID int NOT NULL auto_increment,
     Username varchar(255) NOT NULL,
     Password varchar(255) NOT NULL,
-    Salt int default 0,
+    Salt varchar(255) default 0,
+    Zoobars int default '1',
+    Token varchar(255) default 'null',
+    Profile TEXT,
     PRIMARY KEY (PersonId)
 );
-INSERT INTO `Person` values (1, 'admin', '8af8ba533d76052babaf51113d6c5449', 1000);
+
