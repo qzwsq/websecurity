@@ -1,0 +1,27 @@
+.tab tr:nth-child(1){
+    font-weight: bold;
+    text-align: left;
+}
+.tab tr td:nth-child(4){
+    text-align: center;
+}
+.tab tr td:nth-child(5){
+    text-align: center;
+}
+.tab tr td:nth-child(6){
+    text-align: center;
+}
+.tab tfoot {
+    border-top: 2px solid black;
+    font-weight: bold;
+}
+.tab {
+    border-collapse:collapse;
+    font-size: 13px;
+}
+#container {
+    border:10px solid;
+    padding: 20px;
+    border-color:#d0d0ff;
+    display: inline-block;
+}

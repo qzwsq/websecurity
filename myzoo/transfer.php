@@ -3,6 +3,11 @@
   nav_start_outer("Transfer");
   nav_start_inner();
   if($_POST['submission']) {
+    session_start();
+    if (!hash_equals($_SESSION['token'], $_POST['token'])){
+      echo "<p>verify fail</p>";
+    }else {
+      echo "<p>success transfer</p>";
 	    $recipient = $_POST['recipient'];
     $zoobars = (int) $_POST['zoobars'];
     $sql = "SELECT Zoobars FROM Person WHERE PersonID=$user->id";
@@ -27,6 +32,7 @@
       $result = "Sent $zoobars zoobars";
     }
     else $result = "Transfer to $recipient failed.";
+   }
   }
 ?>
 <p><b>Balance:</b>
@@ -39,6 +45,11 @@
 ?> </span> zoobars</p>
 <form method=POST name=transferform
   action="<?php echo $_SERVER['PHP_SELF']?>">
+<p><input name =token type=hidden value="<?php session_start();
+if (empty($_SESSION['token'])) {
+  $_SESSION['token'] = bin2hex(random_bytes(32));
+}
+echo $_SESSION['token']?>"></p>
 <p>Send <input name=zoobars type=text value="<?php 
   echo $_POST['zoobars']; 
 ?>" size=5> zoobars</p>

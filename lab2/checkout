@@ -1,0 +1,21 @@
+#bin bash
+set -e
+if [ $# -eq 0 ]
+then
+    echo "usage: checkout [a|b] "
+    echo "./checkout a #checkout p1a.css"
+    echo "./checkout b #checkout p1b.css"
+    exit 1
+fi
+
+r="p1$1.css"
+if [ $1 =  'a' ]
+then
+    echo "success checkout $r"
+    sed -i "s/p1[a-b].css/$r/g" p1.html
+elif [ $1 = 'b' ]
+then
+    echo "success checkout $r"
+    sed -i "s/p1[a-b].css/$r/g" p1.html
+fi
+

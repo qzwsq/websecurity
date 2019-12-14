@@ -1,0 +1,34 @@
+.tab tr td:nth-child(4){
+	text-align: center;
+}
+.tab tr td:nth-child(5){
+    text-align: center;
+}
+.tab tr td:nth-child(6){
+    text-align: center;
+}
+
+.tab tr td{
+    border-bottom:1pt solid black;
+    border-color: white;
+}
+.tab {
+   font-size:13px;
+   border-collapse: collapse;
+}
+.tab tr:nth-child(odd){
+    background-color:#eeeff2;
+}
+
+.tab tr:nth-child(even){
+    background-color:#dfe1e7;
+}
+.tab tr:first-child{
+    text-align:left;
+    color: white;
+    font-weight: bold;
+    background-color:#687291;
+}
+.tab tfoot{
+    display: none;
+}
